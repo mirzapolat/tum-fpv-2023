@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0684d0a5-0f2a-4264-aea1-e86d800de138" name="Changes" comment="average" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Q8q5UziGXkfdynwpCxVbpVT8Qf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/PROJEKTE/University/EIST-a",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "settings.reason",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0684d0a5-0f2a-4264-aea1-e86d800de138" name="Changes" comment="" />
+      <created>1684745373550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684745373550</updated>
+      <workItem from="1684745376523" duration="678000" />
+      <workItem from="1684753022560" duration="754000" />
+      <workItem from="1684785364062" duration="80000" />
+      <workItem from="1684852507589" duration="957000" />
+      <workItem from="1684932655534" duration="4498000" />
+      <workItem from="1685963293376" duration="183000" />
+    </task>
+    <task id="LOCAL-00001" summary="die ersten beiden">
+      <created>1684933243748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684933243748</updated>
+    </task>
+    <task id="LOCAL-00002" summary="die ersten drei">
+      <created>1684935655778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684935655778</updated>
+    </task>
+    <task id="LOCAL-00003" summary="funktion entfernt">
+      <created>1684935758326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684935758326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fail">
+      <created>1684935805956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684935805956</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fail">
+      <created>1684935996535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684935996535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="average">
+      <created>1684936508418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684936508418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="die ersten beiden" />
+    <MESSAGE value="die ersten drei" />
+    <MESSAGE value="funktion entfernt" />
+    <MESSAGE value="fail" />
+    <MESSAGE value="average" />
+    <option name="LAST_COMMIT_MESSAGE" value="average" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
